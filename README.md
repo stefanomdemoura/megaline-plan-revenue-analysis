@@ -1,6 +1,8 @@
 # Megaline — análise de receita dos planos Surf e Ultimate
 
-Projeto de análise de dados para comparar dois planos pré-pagos de telecomunicações e entender quais características de uso explicam a geração de receita.
+Projeto de análise de dados para comparar dois planos pré-pagos de telecomunicações e entender quais características de uso explicam a geração de receita, desenvolvido na formação de Analista de Dados da TripleTen.
+
+**English summary.** Comparison of two prepaid telecom plans, Surf and Ultimate, to identify which usage patterns drive revenue. Five datasets were cleaned and merged, each plan's billing rules were applied to monthly usage per customer, and a Welch's t-test showed strong evidence that average monthly revenue per user differs between the plans, with Ultimate higher. The regional comparison (NY-NJ vs. other regions) was significant at 5% but borderline. Project developed as part of TripleTen's Data Analyst program.
 
 ## Objetivo
 
